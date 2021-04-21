@@ -1,2 +1,2 @@
 # master
-ini web pribadi ya..
+ini web pribadi ya. Sebagai contoh saja gaes.
